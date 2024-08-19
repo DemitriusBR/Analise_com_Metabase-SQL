@@ -1,7 +1,8 @@
 # Projeto plano de ação a partir de analise de SQL utilizando METABESE
 
 
-## **Descrição**:
+## **Descrição**
+
 
 Este repositório contém um projeto voltado para a análise e previsão de resultados de um e-commerce, utilizando o programa Metabase e desenvolvimento em SQL. O objetivo é construir um painel gerencial que permita ao e-commerce analisar suas vendas e definir estratégias para otimizar seus resultados. O projeto abrange a análise de dados de vendas e clientes, com o intuito de prever o faturamento e fornecer recomendações estratégicas.
 
