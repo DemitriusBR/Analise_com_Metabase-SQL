@@ -25,6 +25,11 @@ Este repositório contém um projeto voltado para a análise e previsão de resu
 ## **Funcionalidades**
 ### Visão Geral dos Dados :
 
+- **Gráfico de Pizza**: Destribuido por genero
+- **Gráfico de Barras**: Especificando a escolaridades
+- **Card**: Especificando a média de idade
+- **Tabela**: Pocentagem de assistinte por lingua
+- **Gráficos de Linhas**: Chamados por Plataforma 
 
 
 ## **Contribuições**
