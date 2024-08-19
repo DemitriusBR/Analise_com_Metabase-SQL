@@ -12,9 +12,9 @@ A análise dos dados é fundamental para alcançar uma compreensão profunda de 
 
 ## Sobre os Dados
 
-Os dados disponíveis para a análise são extraídos de várias tabelas interconectadas, que fornecem uma visão abrangente do ciclo de vida dos leads. A seguir, uma descrição detalhada das tabelas e seus componentes:
+**Os dados disponíveis para a análise são extraídos de várias tabelas interconectadas, que fornecem uma visão abrangente do ciclo de vida dos leads. A seguir, uma descrição detalhada das tabelas e seus componentes:**
 
-### 1. `leads_basic_details`
+### 1. leads_basic_details
 
 Esta tabela contém informações fundamentais sobre cada lead, como:
 - **lead_id**: Identificador único do lead.
@@ -25,7 +25,7 @@ Esta tabela contém informações fundamentais sobre cada lead, como:
 - **parent_occupation**: Ocupação dos pais, fornecendo contexto adicional sobre o background socioeconômico.
 - **lead_gen_source**: Fonte de origem do lead, crucial para avaliar a eficácia das campanhas de marketing.
 
-### 2. `sales_managers_assigned_leads_details`
+### 2. sales_managers_assigned_leads_details
 
 Esta tabela rastreia a alocação de leads para os gerentes de vendas, com detalhes como:
 - **snr_sm_id**: ID do gerente de vendas sênior responsável pela supervisão.
@@ -33,7 +33,7 @@ Esta tabela rastreia a alocação de leads para os gerentes de vendas, com detal
 - **assigned_date**: Data em que o lead foi atribuído ao gerente de vendas júnior.
 - **cycle**: Ciclo em que o lead foi atribuído, oferecendo insights sobre a carga de trabalho e a gestão de leads.
 
-### 3. `leads_interaction_details`
+### 3. leads_interaction_details
 
 Esta tabela detalha as interações com os leads, incluindo:
 - **jnr_sm_id**: ID do gerente de vendas júnior responsável pela interação.
@@ -43,7 +43,7 @@ Esta tabela detalha as interações com os leads, incluindo:
 - **call_status**: Status da chamada (successful, unsuccessful), para avaliar a eficácia das abordagens.
 - **call_reason**: Motivo da chamada, ajudando a identificar quais razões são mais eficazes em cada estágio.
 
-### 4. `leads_demo_watched_details`
+### 4. leads_demo_watched_details
 
 Informações sobre as demonstrações assistidas pelos leads estão nesta tabela:
 - **lead_id**: Identificador único do lead.
@@ -51,7 +51,7 @@ Informações sobre as demonstrações assistidas pelos leads estão nesta tabel
 - **language**: Idioma da demonstração, relevante para adaptar o conteúdo às preferências dos leads.
 - **watched_percentage**: Porcentagem da demonstração assistida, útil para avaliar o interesse e o envolvimento.
 
-### 5. `leads_reasons_for_no_interest`
+### 5. leads_reasons_for_no_interest
 
 Esta tabela oferece detalhes sobre as razões para a falta de interesse dos leads:
 - **lead_id**: Identificador único do lead.
