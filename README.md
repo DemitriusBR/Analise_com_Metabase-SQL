@@ -22,20 +22,12 @@ Este repositório contém um projeto voltado para a análise e previsão de resu
   - **Descrição**: resultados obtidos
  
   
-Funcionalidades
-Visão Geral dos Dados :
+## **Funcionalidades**
+### Visão Geral dos Dados :
 
-Painel com cartões mostrando quantidade total e valor total de vendas, quantidade de clientes e média de renda dos clientes.
-Análise Temporal :
 
-Gráficos de linhas para contagem e valor total das vendas por mês.
-Análise por Categoria e Demografia :
 
-Gráficos de barras para quantidade e valor de vendas por categoria, distribuição de idades e rendas dos clientes.
-Filtros Interativos :
-
-Filtros para bandeira, estado, canal de venda, departamento, idade, faixa de renda e estado de nascimento.
-Contribuições
+## **Contribuições**
 Sinta-se à vontade para contribuir com melhorias e sugestões. Para isso, abra um issue ou envie um pull request.
 
 Licença
