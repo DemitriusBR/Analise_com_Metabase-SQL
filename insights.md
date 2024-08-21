@@ -21,6 +21,6 @@ Por outro lado, características como gênero e plataforma utilizadas pelos lead
 
 ## Conclusão do projeto
 
+O projeto foi um sucesso ao criar uma visão clara do processo de vendas e do perfil dos leads. As análises realizadas proporcionaram uma visão geral detalhada, identificaram áreas de melhoria e possibilitaram o desenvolvimento de estratégias mais eficazes para aumentar a conversão e impulsionar o crescimento. Embora o projeto tenha sido simples, ele ofereceu insights valiosos e abriu caminho para o desenvolvimento de uma nova estratégia para a empresa.
 
-O projeto foi um sucesso em criar uma visão clara sobre o processo de vendas e o comportamento dos leads. As análises realizadas permitiram à equipe de negócios identificar áreas de melhoria e desenvolver estratégias mais eficazes para aumentar a conversão e o crescimento.
 
