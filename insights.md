@@ -10,7 +10,7 @@ Como o principal objetivo da analise era alanvancar os resulvtados, nada melhor 
 
 - **Perfil Genérico dos Leads**: Alguns aspectos do perfil dos leads não afetam diretamente a aquisição. Por exemplo, o gênero apresenta uma distribuição equilibrada entre os dois sexos, e priorizar um gênero em detrimento do outro não traz grandes vantagens. Da mesma forma, a plataforma utilizada pelos leads também é equilibrada, com picos de preferência em diferentes plataformas, sem uma superioridade expressiva de nenhuma delas.
 
-## Conclução dos Insights 
+## Conclusão dos Insights 
 
 
 Com base nos insights obtidos, uma análise do perfil dos leads revela um padrão claro e estratégico para direcionamento de campanhas. O público-alvo predominante é jovem, com idade média de 22 anos, e apresenta uma alta concentração entre aqueles em busca de novas oportunidades e graduados em cursos tecnológicos, que representam de 60% a 70% das aquisições. Este perfil deve ser priorizado em estratégias de marketing e ofertas direcionadas, aproveitando o desejo de renovação profissional e a formação específica
